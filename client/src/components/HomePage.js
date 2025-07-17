@@ -93,24 +93,6 @@ const HomePage = () => {
             <Zap className="mr-2 h-5 w-5" />
             Start Exploring
           </Link>
-          <a
-            href="https://github.com/flatmarstheory/cloud-security-playground"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="btn-secondary inline-flex items-center justify-center"
-          >
-            <Github className="mr-2 h-5 w-5" />
-            View Source
-          </a>
-          <a
-            href="https://github.com/flatmarstheory/cloud-security-playground#readme"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="btn-secondary inline-flex items-center justify-center"
-          >
-            <BookOpen className="mr-2 h-5 w-5" />
-            Project Docs
-          </a>
         </div>
       </motion.div>
 
