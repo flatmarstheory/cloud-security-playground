@@ -5,6 +5,9 @@
 
 ---
 
+![Small Recording 2025-07-17 180519](https://github.com/user-attachments/assets/e8721b56-5ed6-4dba-a47b-e88b3a7ae15c)
+
+
 ## Overview
 
 **Cloud Security Playground** is an interactive, full-stack educational platform for learning, experimenting, and demonstrating modern cryptographic and cloud security concepts. It features:
